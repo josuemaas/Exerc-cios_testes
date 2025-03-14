@@ -1,0 +1,26 @@
+/* Tema Escuro */
+body {
+    background-color: #1e1e1e;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #ccc;
+}
+
+a {
+    color: #5e9fc2;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.voltar-link {
+    background-color: #007BFF;
+}
+
+.voltar-link:hover {
+    background-color: #0056b3;
+}
